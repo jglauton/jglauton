@@ -30,7 +30,7 @@
 - [📚 Nome do seu projeto 2](https://github.com/jglauton/nomedoprojeto2)
 - [🚧 Nome do seu projeto 3](https://github.com/jglauton/nomedoprojeto3)
 
-*(Edite os nomes e os links acima para apontar para seus projetos reais!)*
+
 
 ## 📬 Entre em Contato
 
